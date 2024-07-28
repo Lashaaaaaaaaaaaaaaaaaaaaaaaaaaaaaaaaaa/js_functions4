@@ -26,7 +26,7 @@ function capitalizeWords(sentence) {
 }
 
 const sentence1 = "hello world! it's a wonderful day";
-console.log(capitalizeWords(sentence1)); // "Hello World! This Is A Test."
+console.log(capitalizeWords(sentence1)); // "Hello World! It's A Wonderful Day"
 
 
 
